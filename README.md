@@ -1,0 +1,2 @@
+# fistapp
+cordova
